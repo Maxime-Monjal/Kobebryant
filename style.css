@@ -1,0 +1,48 @@
+body{
+    background: silver;
+    color: black;
+    font-size: 18px;}
+  
+  #main{ 
+    background: linear-gradient(45deg, purple 25%, yellow);
+    border-radius: 1%;}
+  
+  #header{
+    color: yellow;
+    text-shadow: 2px 0px purple;
+    font-size: 60px;
+    place-self: center;
+    text-align: center;}
+  
+  h1{margin: 10px;}
+  
+  h2{ 
+    color:yellow;
+    font-size: 50px;}
+  
+  .bryantcolor{
+    color:purple;
+    text-shadow: 2px 0px yellow;}
+  
+  #img-div{
+    place-self: center;
+    text-align: center;}
+  
+  .mamba{
+    margin: 0;
+    color: purple;
+    font-size: 60px;
+    text-shadow: 2px 0px yellow;}
+  
+  .quote-text{
+    color: silver;
+    margin-bottom: 0;}
+  
+  .quote{
+    color: silver;
+    margin-top: 8px;
+    margin-bottom: 0;}
+  
+  a:visited{color: gold;}
+  a{color:gold;}
+  a:hover{color:white;}
